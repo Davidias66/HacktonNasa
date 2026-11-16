@@ -1,0 +1,10 @@
+{
+  "description": "Apresenta um problema e informações essenciais sobre um MVP, ajudando visitantes a entender a proposta e acessar o produto em desenvolvimento.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
